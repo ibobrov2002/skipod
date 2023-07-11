@@ -18,4 +18,4 @@
 6. Подготовить отчет о выполнении задания, включающий: описание реализованного алгоритма, графики зависимости времени исполнения от числа ядер/процессоров для различного объёма входных данных, текст программы.
 
 [Bluegene/P и Polus]: http://hpc.cs.msu.ru/
-[1-D Jacobi stencil computation]: http://dvmh.keldysh.ru/attachments/download/5269/jacobi-1d.tgz
+[1-D Jacobi stencil computation]: https://drive.google.com/file/d/1J2CeR919hqil9BlMIa06851xelPfh1Wy/view?usp=sharing
